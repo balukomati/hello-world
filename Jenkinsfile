@@ -1,4 +1,3 @@
-# This is balaiah
 pipeline {
     agent any
     environment {
